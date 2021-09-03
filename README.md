@@ -12,4 +12,14 @@ I like **leh ladakh** because it's a place where we feel peace through **nature*
     5. Hapers Ferry to Harrisburg.
     6. Harrisburg to Pennsylvania.
     7. Pennsylvania to New york city.
+
+ ### Products to be packed for enjoyment.
+    - Comfortable Shoes.
+    - Weather Appropriate, Layered Attire.
+    - Light Jacket.
+    - Purse/Backpack.
+    - Camera.
+    - Extra Batteries/Charger.
+    - Refillable Water Bottle.
+    - Extra Cash.
 ---
