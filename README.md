@@ -40,7 +40,7 @@ This table shows location and Amount of Foods.
 
 ---
 
-**Quotes**
+# Quotes
 
 > Tomorrow, you must be a little better than you are today. That striving should always be there. -*Sadhguru*
 
