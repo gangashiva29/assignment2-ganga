@@ -3,4 +3,4 @@ I want to see my surrounding people to be happy than myself. I communicate with 
 
 [Northwest Missouri State University](northwestmissouri.jpg)
 
-**[ReadMe](C:\Users\S545234\Desktop\assignment2-ganga\README.md)**
+**[ReadMe](README.md)**
