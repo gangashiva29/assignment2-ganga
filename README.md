@@ -22,6 +22,23 @@ I like **leh ladakh** because it's a place where we feel peace through **nature*
     - Extra Batteries/Charger.
     - Refillable Water Bottle.
     - Extra Cash.
+    
+**[AboutMe](AboutMe.md)**
+
 ---
 
-**[AboutMe](AboutMe.md)**
+# Food Table
+
+This table shows location and Amount of Foods.
+
+| **Food**                | **Location**      | **Amount**         |
+| ----------------------- | ----------------- | ------------------ |
+| Biryani                 | Hyderabad         | 200 INR            |
+| Kachori                 | Kolkata           | 150 INR            |
+| Chole Bature            | Delhi             | 100 INR            |
+| Dosa                    | Chennai           | 100 INR            |
+
+
+
+
+
