@@ -38,6 +38,13 @@ This table shows location and Amount of Foods.
 | Chole Bature            | Delhi             | 100 INR            |
 | Dosa                    | Chennai           | 100 INR            |
 
+---
+
+**Quotes**
+
+> Tomorrow, you must be a little better than you are today. That striving should always be there. -*Sadhguru*
+
+> If you care for people around you, you must make yourself into a person they enjoy being with. -*Sadhguru*
 
 
 
