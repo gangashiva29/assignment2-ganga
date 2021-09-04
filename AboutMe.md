@@ -3,4 +3,3 @@ I want to see my surrounding people to be happy than myself. I communicate with 
 
 [Northwest Missouri State University](NWMSU.jpg)
 
-**[ReadMe](README.md)**
