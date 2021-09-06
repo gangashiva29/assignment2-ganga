@@ -46,6 +46,13 @@ This table shows location and Amount of Foods.
 
 > If you care for people around you, you must make yourself into a person they enjoy being with. -*Sadhguru*
 
+---
+
+# Combinatorics Algorithm
+
+> Combinatorics is mathematics of enumeration, existence, construction, and optimization questions concerning finite sets.
+
+[More about Combinatorics Alogrithm](https://mathshistory.st-andrews.ac.uk/Extras/Combinatorial_algorithms/)
 
 
 
