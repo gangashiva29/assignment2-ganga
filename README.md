@@ -54,5 +54,14 @@ This table shows location and Amount of Foods.
 
 [More about Combinatorics Alogrithm](https://mathshistory.st-andrews.ac.uk/Extras/Combinatorial_algorithms/)
 
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
 
+[Code Source Link](https://cp-algorithms.com/algebra/factorial-divisors.html)
 
